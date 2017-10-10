@@ -1,4 +1,6 @@
 # Flashcard-Generator
+*This homework project is using a prototype. I'm not exactly clear on the prototype and what it does. I've copied the ClozeCard and made this work but I'm still working on understanding it.*
+
 
 ## Instructions
 * To run, use a git bash command line
