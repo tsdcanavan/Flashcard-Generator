@@ -1,5 +1,5 @@
 # Flashcard-Generator
-*This homework project is using a prototype. I'm not exactly clear on the prototype and what it does. I've copied the ClozeCard and made this work but I'm still working on understanding it.*
+*This homework project is using a prototype. In order to understand the prototype I copied an existing flashcards.js froJason Boru's git repo. It's a very useful flashcards.js.*
 
 
 ## Instructions
